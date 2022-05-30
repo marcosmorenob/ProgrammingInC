@@ -1,0 +1,1 @@
+main	/Users/marcosmorenoblanco/Downloads/UOC20212/src/main.c	/^int main(int argc, char **argv)$/;"	function	line:6	signature:(int argc, char **argv)	returns:int 

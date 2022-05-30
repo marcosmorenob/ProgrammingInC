@@ -1,0 +1,4 @@
+__TEST_DATA__H	/Users/marcosmorenoblanco/Downloads/UOC20212 4/test/include/test_data.h	/^#define __TEST_DATA__H$/;"	macro	line:2
+test_data_pr1_str	/Users/marcosmorenoblanco/Downloads/UOC20212 4/test/include/test_data.h	/^const char* test_data_pr1_str = "PERSON;87654321K;John;Smith;john.smith@example.com;My street, 25;08001;30\/12\/1980\\n" \\$/;"	variable	line:5
+test_data_pr2_str	/Users/marcosmorenoblanco/Downloads/UOC20212 4/test/include/test_data.h	/^const char* test_data_pr2_str = "PERSON;87654321K;John;Smith;john.smith@example.com;My street, 25;08001;30\/12\/1980\\n" \\$/;"	variable	line:15
+test_data_pr3_str	/Users/marcosmorenoblanco/Downloads/UOC20212 4/test/include/test_data.h	/^const char* test_data_pr3_str = "PERSON;87654321K;John;Smith;john.smith@example.com;My street, 25;08001;30\/12\/1980\\n" \\$/;"	variable	line:26
